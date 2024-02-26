@@ -12,9 +12,12 @@ h3{
     border-bottom: 1px ;
     margin-bottom: 2em;
     box-shadow: 2px 2px 20px 2px #888888;
-    padding: 2em;
+    padding: 1em;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 2em;
 }
 
 /* resize the pictures to have one standard size */
@@ -24,16 +27,13 @@ h3{
 }
 
 #die img{
-    width: 50%;
+    width: 30%;
 }
 
 button{
     display: block;
     padding: 2em 3em;
     border-radius: 4em;
-}
-
-button:active{
-    bor
+    cursor: pointer;
 }
 /* use grid or flexbox to display the two die side by side */
