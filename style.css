@@ -1,0 +1,39 @@
+*{
+    padding: auto;
+    margin: auto;
+}
+
+*{
+    background-color: aqua;
+}
+
+/* underline the heading and use box shadow */
+h3{
+    border-bottom: 1px ;
+    margin-bottom: 2em;
+    box-shadow: 2px 2px 20px 2px #888888;
+    padding: 2em;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+/* resize the pictures to have one standard size */
+#die{
+    display: flex;
+    padding-bottom: 3em;
+}
+
+#die img{
+    width: 50%;
+}
+
+button{
+    display: block;
+    padding: 2em 3em;
+    border-radius: 4em;
+}
+
+button:active{
+    bor
+}
+/* use grid or flexbox to display the two die side by side */
