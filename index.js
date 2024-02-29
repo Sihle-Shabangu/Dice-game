@@ -1,9 +1,9 @@
-const dot1 = 'onee.png';
-const dot2 = 'twoo.png';
-const dot3 = 'threee.png';
-const dot4 = 'fourr.png';
-const dot5 = 'fivee.png';
-const dot6 = 'sixx.png';
+const dot1 = 'pictures/onee.png';
+const dot2 = 'pictures/twoo.png';
+const dot3 = 'pictures/threee.png';
+const dot4 = 'pictures/fourr.png';
+const dot5 = 'pictures/fivee.png';
+const dot6 = 'pictures/sixx.png';
 let die1;
 let die2;
 
