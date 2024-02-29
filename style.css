@@ -2,11 +2,9 @@
 *{
     padding: auto;
     margin: auto;
-}
-
-*{
     background-color: aqua;
 }
+
 
 /* underline the heading and use box shadow */
 h3{
@@ -22,14 +20,14 @@ h3{
 }
 
 /* resize the pictures to have one standard size */
+#die img{
+    width: 30%;
+}
 #die{
     display: flex;
     padding-bottom: 3em;
 }
 
-#die img{
-    width: 30%;
-}
 
 button{
     display: block;
